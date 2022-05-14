@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    width="600"
+    width="800"
     height="300"
     src="https://imageio.forbes.com/specials-images/imageserve/5fece0173b828078972de971/Retro-futuristic-background-1980s-style-3d-illustration-/0x0.jpg?fit=crop&format=jpg&crop=5760,3240,x0,y0,safe"
   >
