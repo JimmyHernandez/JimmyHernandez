@@ -5,7 +5,7 @@
     src="https://imageio.forbes.com/specials-images/imageserve/5fece0173b828078972de971/Retro-futuristic-background-1980s-style-3d-illustration-/0x0.jpg?fit=crop&format=jpg&crop=5760,3240,x0,y0,safe"
   >
 </p>
-
+<div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/3kPDmoWdBpQPNhCnUG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">via GIPHY</a></p>
 
 
 - 👋 Hi, I’m @Jimmy Hernandez Rivera, I'm 31 years old and currently living in Toa Alta, Puerto Rico. I'm part of COHORT 18 from Holberton School Puerto Rico.
