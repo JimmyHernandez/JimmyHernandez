@@ -25,11 +25,9 @@
 
 ## About me 
 
-- 👋 Hi, I’m @Jimmy Hernandez Rivera, I'm 31 years old and currently living in Toa Alta, Puerto Rico. I'm part of COHORT 18 from Holberton School Puerto Rico.
-- 👀 I’m interested in helping patients with partial or complete paralysis to have a better quality of life by making a VR program to help them be able to   work inside that virtual world, making them feel free with the power of their mind.
-- 🌱 I’m currently learning fundamental of programming, I'm learning my first programming languaje C. I have a bit of experience in HTML5.
-- 💞️ I’m looking to collaborate on neuroscience technologies and VR programmers.
-- 📫 How to reach me ... jimoem24@gmail.com 
+- I'm currently living in Toa Alta, Puerto Rico. I'm part of COHORT 18 PT from Holberton School Puerto Rico.
+rested in helping patients with partial or complete paralysis to have a better quality of life by making a VR program to help them be able to work inside that virtual world, making them feel free with the power of their mind.
+- 🌱 I’m currently learning fundamental of programming, I'm learning my first programming languaje C.
 - 👋 Playstation - newtronPlus
 
 ## Tools and Language
@@ -56,13 +54,6 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimmyHernandez&mode=weekly)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyHernandez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## :writing_hand: Blog Posts :
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-
-
-
 <!---
 JimmyHernandez/JimmyHernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
