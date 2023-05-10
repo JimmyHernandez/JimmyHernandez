@@ -26,11 +26,11 @@
 ## About me 
 
 - I'm currently living in Toa Alta, Puerto Rico. I'm part of COHORT 18 PT from Holberton School Puerto Rico.
-rested in helping patients with partial or complete paralysis to have a better quality of life by making a VR program to help them be able to work inside that virtual world, making them feel free with the power of their mind.
 - 🌱 I’m currently learning fundamental of programming, I'm learning my first programming languaje C.
+- Currently working on AirBnB clone project.
 - 👋 Playstation - newtronPlus
 
-## Tools and Language
+## Tools and Languages
 <div align="center">
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="50"/></a>
 <img src ="https://cutt.ly/HDqbjil" alt="vscode" width="50" height="50">
@@ -54,6 +54,11 @@ rested in helping patients with partial or complete paralysis to have a better q
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimmyHernandez&mode=weekly)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyHernandez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!---
 JimmyHernandez/JimmyHernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
