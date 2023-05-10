@@ -53,6 +53,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimmyHernandez&mode=weekly)](https://git.io/streak-stats)
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mutable and immutable with Python3](https://dev.to/jimmyhernandez/mutable-and-immutable-with-python3-5cc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
