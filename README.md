@@ -24,7 +24,6 @@
 </div>  
 
 ## About me 
-
 - I'm currently living in Toa Alta, Puerto Rico. I'm part of COHORT 18 PT from Holberton School Puerto Rico.
 - 🌱 I’m currently learning fundamental of programming, I'm learning my first programming languaje C.
 - Currently working on AirBnB clone project.
@@ -52,9 +51,7 @@
 
 ## Statistics
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JimmyHernandez&mode=weekly)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyHernandez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [test](https://dev.to/jimmyhernandez/test-1e2b)
