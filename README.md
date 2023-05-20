@@ -3,6 +3,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
+
 <!-- badges-->
 
 <div align="center">
@@ -14,7 +15,7 @@
 <a href="https://dev.to/jimmyhernandez" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<!-- linkein-->
+<!-- linkedin-->
 <a href="https://linkedin.com/in/jimmy-hernandez-rivera-77232193" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -25,23 +26,19 @@
 </div>
 <!-- paypal-->
 <div align="center">
-            <a href="https://paypal.me/jimoem24" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-            
-<br/>
-
-## About me:  
+<a href="https://paypal.me/jimoem24" target="_blank" style="display: inline-block;"><img
+src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
+</a>
+</div>
+<br>
+## About me: 
 
 - 🔭 I’m currently working on AirBnB Clone and preparing myself for the final project.  
 - 🌱 I’m currently learning Python, Flask and MySQL.  
 - 🧪 Experimenting with L.A.M.P Stack 🔬  
 - ⚡  Fun fact: I love Physics and Astronomy 🌌  
 
-<br/>  
+<br>
 
 ## Languages and Tools  
 <div align="center">  
@@ -57,10 +54,12 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="100" /></a>  
 </div>  
 
-<br/>  
+## 💻 Tech Stack:
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
+<br/>
 
 ## Recent Blog Posts
-  
 <!-- BLOG-POST-LIST:START -->
 - [Mutable and immutable with Python3](https://dev.to/jimmyhernandez/mutable-and-immutable-with-python3-5cc7)
 <!-- BLOG-POST-LIST:END -->
@@ -71,11 +70,13 @@
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyHernandez&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>  
-  
-<br/>  
-  
-## Music and Lifestyle
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=iohk8erd9gd25accn7pxljnrz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+ <br>
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+[![](https://visitcount.itsvg.in/api?id=jimmyhernandez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
