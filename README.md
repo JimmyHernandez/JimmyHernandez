@@ -1,4 +1,4 @@
-## <div align="center">👋, I'm Jimmy, a student at Holberton School and an aspiring Full-stack developer</div>
+## <div align="center">👋, I'm Jimmy, a student at Holberton Coding School in Puerto Rico and an aspiring Full-Stack Developer</div>
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
