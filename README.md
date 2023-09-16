@@ -48,9 +48,6 @@ src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="100" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="100" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="100" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="100" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="100" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="100" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="100" /></a>  
 </div>  
 
@@ -65,9 +62,9 @@ src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="30%">
 <img src="https://github-readme-stats.vercel.app/api?username=JimmyHernandez&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyHernandez&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>  
  <br>
