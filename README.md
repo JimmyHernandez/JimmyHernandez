@@ -7,14 +7,7 @@
 <!-- badges-->
 
 <div align="center">
-<!-- github-->
- <a href="https://github.com/JimmyHernandez" target="_blank">
- <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
- </a>
-<!-- dev-->
-<a href="https://dev.to/jimmyhernandez" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+
 <!-- linkedin-->
 <a href="https://linkedin.com/in/jimmy-hernandez-rivera-77232193" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -22,15 +15,12 @@
 <!-- RESUME -->
 <a href="https://drive.google.com/file/d/1mioCM4_kzRolckY6doRxKSjZ921i8UPX/view?usp=drive_link"><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
 <!-- MAIL TO-->
-<a align="center"><a href="mailto:jimoem24@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
+<a><a href="mailto:jimoem24@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
+ 
 </div>
-<!-- paypal-->
-<div align="center">
-<a href="https://paypal.me/jimoem24" target="_blank" style="display: inline-block;"><img
-src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
-</a>
-</div>
+
 <br>
+ 
 ## About me: 
 
 - 🔭 I’m currently working on AirBnB Clone and preparing myself for the final project.  
