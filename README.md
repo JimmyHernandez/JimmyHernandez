@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <!-- RESUME -->
-<a href="https://drive.google.com/file/d/1mioCM4_kzRolckY6doRxKSjZ921i8UPX/view?usp=drive_link"><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
+<a href="https://drive.google.com/file/d/1ygCbJQNacvM3C16vpFAtuaXUHfqyQrF3/view?usp=drive_link"><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a></h3>
 <!-- MAIL TO-->
 <a><a href="mailto:jimoem24@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
  
