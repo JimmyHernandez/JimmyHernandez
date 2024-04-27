@@ -23,8 +23,7 @@
  
 ## About me: 
 
-- 🔭 I’m currently working on AirBnB Clone and preparing myself for the final project.  
-- 🌱 I’m currently learning Python, Flask and MySQL.  
+- 🌱 I’m currently learning Python, Django and MySQL.  
 - 🧪 Experimenting with L.A.M.P Stack 🔬  
 - ⚡ Fun fact: I love Physics and Astronomy 🌌  
 
