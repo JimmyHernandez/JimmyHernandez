@@ -1,4 +1,4 @@
-## <div align="center">👋, I'm Jimmy, a student at Holberton Coding School in Puerto Rico and an aspiring Full-Stack Developer</div>
+## <div align="center">👋, I'm Jimmy, a Software Developer</div>
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on AirBnB Clone and preparing myself for the final project.  
 - 🌱 I’m currently learning Python, Flask and MySQL.  
 - 🧪 Experimenting with L.A.M.P Stack 🔬  
-- ⚡  Fun fact: I love Physics and Astronomy 🌌  
+- ⚡ Fun fact: I love Physics and Astronomy 🌌  
 
 <br>
 
