@@ -1,10 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>👋 Hi, I'm Jimmy, a Data Analyst</h1>
-  <br>
-
+  <h1>👋 Hola, soy Jimmy, un Data Analyst</h1>
+  
   <a href="https://linkedin.com/in/jimmy-hernandez-rivera-77232193" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://raw.githubusercontent.com/JimmyHernandez/JimmyHernandez/main/Jimmy_Hern%C3%A1ndezRivera_CV%202025.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV%20(PDF)-red?style=for-the-badge&logo=googledocs&logoColor=white" alt="Ver CV" />
   </a>
 </div>
 
@@ -37,14 +40,7 @@ Actualmente estoy ampliando mis habilidades en análisis de datos y machine lear
 
 * **Introduction to Data Science:** Aprendiendo fundamentos clave para la manipulación y visualización de datos.
 * **Introduction to Modern IA:** Explorando conceptos de inteligencia artificial aplicados al análisis de datos.
-  
----
-
-###  Mis Proyectos de Data Science
-
-
-
 
 ---
 
-
+### Mis Proyectos de Data Science
