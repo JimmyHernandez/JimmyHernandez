@@ -36,7 +36,7 @@
 Actualmente estoy ampliando mis habilidades en análisis de datos y machine learning a través de la **Cisco Networking Academy**. Los cursos en los que estoy inscrito son:
 
 * **Introduction to Data Science:** Aprendiendo fundamentos clave para la manipulación y visualización de datos.
-* **Introduction to Modern IA:** Explorando conceptos de inteligencia artificial aplicados al análisis de datos. ### Mis Proyectos de Data Science
+* **Introduction to Modern IA:** Explorando conceptos de inteligencia artificial aplicados al análisis de datos.
   
 ---
 
@@ -44,5 +44,7 @@ Actualmente estoy ampliando mis habilidades en análisis de datos y machine lear
 
 
 
+
+---
 
 
