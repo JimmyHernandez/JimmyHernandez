@@ -13,15 +13,6 @@
 
 ---
 
-### About Me
-
-- 🌱 I'm currently working with **Python** (Pandas, NumPy, and Matplotlib), **Tableau**, **Power BI**, and **Airtable** for data analysis.
-- ⚡ Experienced in relational databases.
-- 🧪 I'm experimenting with networking: connecting two houses via PTP with Starlink, focusing on traffic segmentation with VLANs.
-- 🔬 Fun fact: I love Physics and Astronomy.
-
----
-
 ### Languages and Tools
 
 <p align="center">
